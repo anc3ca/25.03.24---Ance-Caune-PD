@@ -23,7 +23,7 @@ jautajums = [
     "4. Jautājums: Jā vai nē: jūras zvaigznēm ir smadzenes.", 
     "5. Jautājums: Cik muskuļu vienā kaķa ausī?",
     "6. Jautājums: Kurā gadā pirmais kaķis tika sūtīts kosmosā? (Rakstiet tikai skaitli - punktu nevajag)", 
-    "7. Jautājums: Kuri ir vienīgie putni, kas spēj lidot atpakaļgaitā?"
+    "7. Jautājums: Kuri ir vienīgie putni, kas spēj lidot atpakaļgaitā?",
     "8. Jautājums: Cik % no pasaules svin savu suņu dzimšanas dienu?" 
 ]
 
